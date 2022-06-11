@@ -1,0 +1,5 @@
+Class Welcome{
+public static vod main(String[] args){
+Sysytem.out.println("Welcome");
+}
+}
