@@ -3,3 +3,12 @@ public static vod main(String[] args){
 Sysytem.out.println("Welcome");
 }
 }
+
+class Casio{
+public static void main(String[] args){
+int num=2;
+int num1=5;
+int result=num+num1;
+System.out.println(result);
+}
+}
